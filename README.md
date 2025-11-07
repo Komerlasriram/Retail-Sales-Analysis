@@ -1,6 +1,6 @@
 # 🛒 Retail Sales Analysis
 
-![Retail Sales Dashboard] 
+# Retail Sales Dashboard
 
 <img width="1304" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/f72d832b-f85a-4f72-a05a-857d0addc825" />
 
